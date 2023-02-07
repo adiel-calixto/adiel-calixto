@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiel-calixto&label=Profile%20views&color=0e75b6&style=flat" alt="adiel-calixto" /> </p>
 
-- 🌱 I’m currently learning **svelte, next.js, laravel**
+- 🌱 I’m currently learning **next.js, laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adiel-calixto](https://github.com/adiel-calixto)
 
