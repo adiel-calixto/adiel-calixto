@@ -1,10 +1,10 @@
 <h2 align="left">Hi 👋, I'm AdielCalixto</h2>
 
-Software developer.
+Software Developer specialized in backend development.
 
-- 📖 Information Systems student
-- 💻 I worked as a PHP/TypeScript developer, but nowadays I mainly use Java and Python
-- 🤝  I'm open to collaborating on projects as a developer
+📚 Information Systems student
+💻 Backend Developer with experience in PHP, but also proficient in Python, TypeScript, and Java
+👨‍💻 Open to collaborating on projects as a developer
 
 ---
 
