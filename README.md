@@ -2,9 +2,9 @@
 
 Software Developer specialized in backend development.
 
-📚 Information Systems student
-💻 Backend Developer with experience in PHP, but also proficient in Python, TypeScript, and Java
-👨‍💻 Open to collaborating on projects as a developer
+- 📚 Information Systems student
+- 💻 Backend Developer with experience in PHP, but also proficient in Python, TypeScript, and Java
+- 👨‍💻 Open to collaborating on projects as a developer
 
 ---
 
